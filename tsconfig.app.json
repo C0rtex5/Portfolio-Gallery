@@ -10,9 +10,8 @@
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true,
     "moduleDetection": "force",
-    "noEmit": true,
-    "jsx": "react-jsx",
 
     /* Linting */
     "strict": true,
