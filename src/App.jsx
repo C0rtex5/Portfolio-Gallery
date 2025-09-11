@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>
-        Meu Portfólio 🎨
+        Sample Text
       </h1>
       <Gallery/>
     </div>
